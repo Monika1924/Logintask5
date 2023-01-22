@@ -1,0 +1,71 @@
+body{
+   background-color:skyblue;
+}
+.box{
+    margin-top: 7%;
+    margin-left: 13%;
+    width: 73%;
+}
+
+.title1{
+    margin-left: 35px;
+    color: blue;
+}
+.title2{
+    margin-left: 35px;
+    color: white;
+}
+
+.leftbox{
+    background-color: rgb(75, 75, 225);
+    font-family: 'Montserrat', sans-serif;
+    border-top-right-radius:8px; 
+    border-bottom-right-radius:8px; 
+}
+.rightbox{
+    background-color: white;
+    font-family: 'Montserrat', sans-serif;
+    border-top-left-radius:8px; 
+    border-bottom-left-radius:8px; 
+}
+
+.whitebox{
+    width: 90%;
+    margin: auto;
+    color: blue;
+
+}
+.whitebox input{
+    font-size:17px;
+}
+.whitebox select{
+    font-size:17px;
+}
+.bluebox{
+    width: 90%;
+    margin: auto;
+    color: white;
+}
+.bluebox input{
+    font-size:17px;
+}
+.bluebox select{
+    font-size:17px;
+}
+.butn{
+    border-radius: 30px;
+    background-color: white;
+    color: black;
+    font-size: 600;
+    width: 35%;
+}
+.butn:hover{
+    background-color: rgb(220, 219, 219);
+    color: black;
+    font-size: 600;
+    width: 35%;
+    border-radius: 30px;
+}
+.bluebox a{
+    color: white;
+}
